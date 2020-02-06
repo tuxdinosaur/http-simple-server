@@ -11,6 +11,6 @@ REST es una arquitectura, cuyas reglas son:
 - Un protocolo cliente/servidor sin estado (HTTP)
 - Conjunto de operaciones bien definidas (GET, POST, DELETE)
 - Sintaxis universal (/recurso/identificador)
-- Uso de Hipermedios (HTML, XML, JSON)
+- Uso de hipermedios (HTML, XML, JSON)
 
 Se denomina RESTful a un servicio que implementa todas las reglas REST.
